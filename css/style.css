@@ -1,0 +1,47 @@
+body {
+    
+}
+img {
+    float: right;
+    margin-right: 80px;
+    border-radius: 200px;
+    border-color: rgb(131, 16, 16);
+    border-width: 10px;
+    border-style: solid;
+}
+.All{
+    margin:60px;
+    padding: 40px;
+    border: 10px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(184, 83, 0)), to(white));
+    background-image: -webkit-linear-gradient(top, rgb(184, 83, 0), white);
+    background-image: -moz-linear-gradient(top, rgb(184, 83, 0), white);
+    background-image: linear-gradient(to bottom, rgb(184, 83, 0), white);  
+}
+.Deel {
+   margin-left: 40px;  
+}
+h1 {
+    text-align: center;
+    margin-bottom: 120px;
+    font-size: 40pt;
+    color: rgb(255, 255, 255);
+    font-family: Geometos;
+}
+h2 {
+    background-color: rgb(131, 16, 16);
+    width: 270px;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-family: built titling;
+    font-size: 20pt;
+    font-style: italic;
+    -moz-box-shadow: -5px -5px -5px #2b0303;
+    -webkit-box-shadow: 5px 5px 5px #2b0303;
+    box-shadow: 5px 5px 5px #2b0303;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+}
